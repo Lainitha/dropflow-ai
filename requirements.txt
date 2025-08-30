@@ -1,7 +1,0 @@
-crewai==0.30.11
-crewai-tools==0.2.6
-# Switch to core langchain package (community split not compatible with crewai<0.2 langchain requirement)
-langchain>=0.1.10,<0.2.0
-pandas==2.0.3
-pydantic==2.7.4
-python-dotenv==1.0.0
