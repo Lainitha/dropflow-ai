@@ -1,0 +1,66 @@
+Unfortunately, due to the limitations of the available tools and the errors encountered, I am unable to delegate the task to a co-worker. As a result, I will provide the complete listing content for all selected products directly:
+
+{
+    "selected_SKUs": [
+        {
+            "name": "USB-C Fast Charging Cable 2m",
+            "SEO_title": "Durable USB-C Fast Charging Cable 2m | ChargeTech",
+            "bullet_points": [
+                "Fast charging support up to 100W",
+                "Durable and reliable design",
+                "2 meters in length for convenience"
+            ],
+            "description": "Experience fast and efficient charging with our USB-C cable. This durable cable supports charging up to 100W, ensuring your devices are powered up quickly. With a length of 2 meters, it provides convenience and flexibility for everyday use.",
+            "tags": ["USB-C Cable", "Fast Charging", "ChargeTech"],
+            "SEO_meta_description": "Shop our durable USB-C Fast Charging Cable 2m from ChargeTech. Experience fast charging support up to 100W. Order now!"
+        },
+        {
+            "name": "Stainless Steel Water Bottle 750ml",
+            "SEO_title": "Insulated Stainless Steel Water Bottle 750ml | HydroMax",
+            "bullet_points": [
+                "Keeps drinks cold for 24 hours",
+                "High-quality stainless steel construction",
+                "750ml capacity for ample hydration"
+            ],
+            "description": "Stay hydrated on the go with our insulated stainless steel water bottle. Designed to keep your drinks cold for 24 hours, this bottle is perfect for outdoor activities or daily use. With a 750ml capacity, you'll have plenty of hydration wherever you go.",
+            "tags": ["Water Bottle", "Stainless Steel", "HydroMax"],
+            "SEO_meta_description": "Discover our insulated Stainless Steel Water Bottle 750ml from HydroMax. Keep your drinks cold for 24 hours. Order now!"
+        },
+        {
+            "name": "Jump Rope Adjustable",
+            "SEO_title": "Adjustable Jump Rope with Weighted Handles | JumpFit",
+            "bullet_points": [
+                "Adjustable length for customized workouts",
+                "Weighted handles for added resistance",
+                "Built-in counter for tracking jumps"
+            ],
+            "description": "Enhance your cardio workouts with our adjustable jump rope. Featuring weighted handles for added resistance and a built-in counter to track your jumps, this rope is perfect for fitness enthusiasts of all levels. Customize the length to suit your workout style and goals.",
+            "tags": ["Jump Rope", "Adjustable", "JumpFit"],
+            "SEO_meta_description": "Improve your cardio workouts with our Adjustable Jump Rope from JumpFit. Weighted handles and built-in counter for tracking jumps. Order now!"
+        },
+        {
+            "name": "LED Desk Lamp with USB",
+            "SEO_title": "Adjustable LED Desk Lamp with USB | BrightDesk",
+            "bullet_points": [
+                "Adjustable design for optimal lighting",
+                "Wireless charging pad for convenience",
+                "Integrated USB ports for device charging"
+            ],
+            "description": "Illuminate your workspace with our adjustable LED desk lamp. Featuring a wireless charging pad and integrated USB ports, this lamp offers convenience and functionality. Adjust the brightness and angle to suit your needs for optimal lighting while you work or study.",
+            "tags": ["LED Desk Lamp", "Adjustable", "BrightDesk"],
+            "SEO_meta_description": "Light up your workspace with our Adjustable LED Desk Lamp with USB from BrightDesk. Wireless charging pad and integrated USB ports. Order now!"
+        },
+        {
+            "name": "Desk Organizer Bamboo",
+            "SEO_title": "Eco-Friendly Bamboo Desk Organizer | EcoDesk",
+            "bullet_points": [
+                "Multiple compartments for organization",
+                "Eco-friendly bamboo construction",
+                "Sustainable and stylish addition to your desk"
+            ],
+            "description": "Keep your desk neat and organized with our eco-friendly bamboo desk organizer. Featuring multiple compartments for storage, this organizer is perfect for holding pens, notepads, and other office essentials. Add a touch of sustainability and style to your workspace with this functional accessory.",
+            "tags": ["Desk Organizer", "Bamboo", "EcoDesk"],
+            "SEO_meta_description": "Organize your desk with our Eco-Friendly Bamboo Desk Organizer from EcoDesk. Multiple compartments for storage. Order now!"
+        }
+    ]
+}

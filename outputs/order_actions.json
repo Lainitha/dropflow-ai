@@ -1,0 +1,84 @@
+{
+  "OrderActions": {
+    "ORD001": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU003 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD002": {
+      "Action": "Backorder",
+      "EmailTemplate": "Dear Customer, Your order for SKU028 is currently on backorder due to low stock levels. We are working to replenish the stock as soon as possible. Thank you for your understanding."
+    },
+    "ORD003": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU019 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD004": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU001 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD005": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU001 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD006": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU023 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD007": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU032 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD008": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU025 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD009": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU004 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD010": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU032 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD011": {
+      "Action": "Backorder",
+      "EmailTemplate": "Dear Customer, Your order for SKU009 is currently on backorder due to low stock levels. We are working to replenish the stock as soon as possible. Thank you for your understanding."
+    },
+    "ORD012": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU008 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD013": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU016 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD014": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU021 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD015": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU017 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD016": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU016 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD017": {
+      "Action": "Fulfill Immediately",
+      "EmailTemplate": "Dear Customer, Your order for SKU014 will be fulfilled immediately as we have sufficient stock available. Thank you for shopping with us!"
+    },
+    "ORD018": {
+      "Action": "Backorder",
+      "EmailTemplate": "Dear Customer, Your order for SKU009 is currently on backorder due to low stock levels. We are working to replenish the stock as soon as possible. Thank you for your understanding."
+    },
+    "ORD019": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU017 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    },
+    "ORD020": {
+      "Action": "Substitute with Similar Product",
+      "EmailTemplate": "Dear Customer, Your order for SKU024 will be substituted with a similar product as the stock is not sufficient for fulfillment. We hope you enjoy the alternative product. Thank you for your understanding."
+    }
+  }
+}
