@@ -1,0 +1,36 @@
+supplier_sku,name,category,cost_price,stock,weight_kg,length_cm,width_cm,height_cm,image_url,description,brand,shipping_cost,supplier_lead_days
+SKU001,Wireless Bluetooth Earbuds Pro,Electronics,25.5,45,0.15,8.5,6.2,3.1,https://images.example.com/earbuds.jpg,Premium wireless earbuds with noise cancellation and 24-hour battery life,TechSound,3.5,5
+SKU002,USB-C Fast Charging Cable 2m,Electronics,8.75,120,0.08,20.0,2.5,1.0,https://images.example.com/usb-cable.jpg,Durable USB-C cable with fast charging support up to 100W,ChargeTech,2.25,3
+SKU003,Wireless Mouse Ergonomic,Electronics,15.6,67,0.12,11.5,7.2,4.0,https://images.example.com/mouse.jpg,Ergonomic wireless mouse with 6 programmable buttons,ClickPro,2.8,4
+SKU004,Phone Stand Adjustable,Electronics,12.3,89,0.25,15.0,10.0,8.0,https://images.example.com/phone-stand.jpg,Adjustable phone stand for desk with anti-slip base,StandEasy,3.1,5
+SKU005,Bluetooth Speaker Portable,Electronics,32.4,34,0.45,18.0,7.5,7.5,https://images.example.com/speaker.jpg,Waterproof portable Bluetooth speaker with 360-degree sound,SoundWave,4.5,6
+SKU006,Stainless Steel Water Bottle 750ml,Home & Kitchen,12.8,120,0.35,26.5,7.8,7.8,https://images.example.com/water-bottle.jpg,Insulated stainless steel water bottle keeps drinks cold for 24 hours,HydroMax,4.2,3
+SKU007,Ceramic Coffee Mug Set 4-Pack,Home & Kitchen,28.75,78,1.8,32.0,25.0,18.0,https://images.example.com/mugs.jpg,Handcrafted ceramic coffee mugs with unique glazed finish set of 4,CafeCraft,9.5,5
+SKU008,Kitchen Knife Set 5-Piece,Home & Kitchen,45.6,23,2.1,35.0,25.0,8.0,https://images.example.com/knives.jpg,Professional kitchen knife set with wooden block,ChefPro,12.3,7
+SKU009,Silicone Cooking Utensils Set,Home & Kitchen,18.9,56,0.65,30.0,15.0,5.0,https://images.example.com/utensils.jpg,Heat-resistant silicone cooking utensils 6-piece set,CookEasy,5.4,4
+SKU010,Glass Food Storage Containers,Home & Kitchen,24.5,41,1.5,28.0,20.0,15.0,https://images.example.com/containers.jpg,Airtight glass food storage containers with lids set of 5,FreshKeep,7.8,5
+SKU011,Yoga Mat Premium Non-Slip,Sports & Outdoors,22.4,89,1.2,183.0,61.0,0.6,https://images.example.com/yoga-mat.jpg,Extra thick premium yoga mat with alignment lines and carrying strap,ZenFit,8.9,4
+SKU012,Resistance Bands Set,Sports & Outdoors,16.8,112,0.45,25.0,15.0,8.0,https://images.example.com/bands.jpg,5 resistance bands with handles door anchor and ankle straps,FlexPro,4.2,3
+SKU013,Water Bottle with Time Marker,Sports & Outdoors,14.25,95,0.3,28.0,8.0,8.0,https://images.example.com/time-bottle.jpg,Motivational water bottle with time markers 1L capacity,HydroTime,3.75,4
+SKU014,Foam Roller for Exercise,Sports & Outdoors,19.6,67,0.85,45.0,15.0,15.0,https://images.example.com/foam-roller.jpg,High-density foam roller for muscle recovery and massage,RecoverPro,6.3,5
+SKU015,Jump Rope Adjustable,Sports & Outdoors,9.8,145,0.18,20.0,10.0,5.0,https://images.example.com/jump-rope.jpg,Adjustable jump rope with weighted handles and counter,JumpFit,2.5,3
+SKU016,Facial Cleansing Brush Electric,Beauty & Personal Care,28.9,38,0.35,18.0,8.0,8.0,https://images.example.com/face-brush.jpg,Rechargeable electric facial cleansing brush with 3 speeds,GlowSkin,4.6,6
+SKU017,Essential Oils Set 6-Pack,Beauty & Personal Care,22.5,52,0.4,20.0,15.0,8.0,https://images.example.com/oils.jpg,Pure essential oils set including lavender eucalyptus and more,AromaPure,3.8,5
+SKU018,Hair Straightener Ceramic,Beauty & Personal Care,35.4,29,0.55,30.0,8.0,5.0,https://images.example.com/straightener.jpg,Ceramic hair straightener with adjustable temperature,HairPro,5.2,7
+SKU019,Makeup Brush Set 12-Piece,Beauty & Personal Care,18.75,71,0.3,25.0,18.0,5.0,https://images.example.com/brushes.jpg,Professional makeup brush set with carrying case,BeautyPro,3.9,4
+SKU020,Jade Roller and Gua Sha Set,Beauty & Personal Care,14.6,86,0.25,18.0,12.0,6.0,https://images.example.com/jade-roller.jpg,Natural jade roller and gua sha stone for facial massage,JadeBeauty,3.2,5
+SKU021,LED Desk Lamp with USB,Office Supplies,18.9,67,0.85,45.0,15.0,12.0,https://images.example.com/desk-lamp.jpg,Adjustable LED desk lamp with wireless charging pad and USB ports,BrightDesk,6.75,7
+SKU022,Ergonomic Laptop Stand,Office Supplies,24.3,48,1.1,30.0,25.0,5.0,https://images.example.com/laptop-stand.jpg,Adjustable ergonomic laptop stand with heat ventilation,DeskPro,7.2,5
+SKU023,Desk Organizer Bamboo,Office Supplies,16.5,93,0.75,25.0,20.0,15.0,https://images.example.com/organizer.jpg,Eco-friendly bamboo desk organizer with multiple compartments,EcoDesk,5.1,4
+SKU024,Wireless Keyboard and Mouse,Office Supplies,32.8,41,0.65,45.0,18.0,3.0,https://images.example.com/keyboard-mouse.jpg,Wireless keyboard and mouse combo with long battery life,TypePro,6.4,6
+SKU025,Monitor Stand with Drawer,Office Supplies,28.6,35,1.8,50.0,30.0,15.0,https://images.example.com/monitor-stand.jpg,Monitor stand riser with storage drawer and phone slot,ScreenLift,8.9,7
+SKU026,Leather Wallet RFID Blocking,Fashion Accessories,19.8,82,0.15,12.0,9.5,2.0,https://images.example.com/wallet.jpg,Genuine leather wallet with RFID blocking technology,SecureWallet,3.2,4
+SKU027,Sunglasses Polarized UV400,Fashion Accessories,22.4,64,0.08,15.0,6.0,5.0,https://images.example.com/sunglasses.jpg,Polarized sunglasses with UV400 protection and case,ShadePro,2.8,5
+SKU028,Watch Minimalist Design,Fashion Accessories,45.9,28,0.12,25.0,8.0,8.0,https://images.example.com/watch.jpg,Minimalist design watch with leather strap and quartz movement,TimeClass,4.5,8
+SKU029,Canvas Backpack Vintage,Fashion Accessories,32.5,47,0.85,45.0,30.0,15.0,https://images.example.com/backpack.jpg,Vintage style canvas backpack with laptop compartment,VintageCarry,7.8,6
+SKU030,Beanie Hat Winter Wool,Fashion Accessories,12.3,118,0.1,22.0,20.0,2.0,https://images.example.com/beanie.jpg,Warm wool beanie hat for winter with fleece lining,WarmHead,2.4,3
+SKU031,Phone Camera Lens Kit,Electronics,15.6,34,0.25,12.0,8.5,4.2,https://images.example.com/lens-kit.jpg,Professional phone camera lens kit with wide angle macro and fisheye,PhotoPro,2.8,6
+SKU032,Bamboo Cutting Board Set,Home & Kitchen,26.4,58,1.6,40.0,30.0,5.0,https://images.example.com/cutting-board.jpg,Set of 3 bamboo cutting boards in different sizes,BambooCut,8.2,5
+SKU033,Dumbbell Set Adjustable,Sports & Outdoors,48.7,22,15.0,35.0,20.0,20.0,https://images.example.com/dumbbells.jpg,Adjustable dumbbell set 5-25 lbs with stand,PowerLift,18.5,10
+SKU034,Aromatherapy Diffuser,Beauty & Personal Care,24.8,43,0.45,16.0,16.0,20.0,https://images.example.com/diffuser.jpg,Ultrasonic aromatherapy diffuser with LED lights 300ml,AromaZen,4.9,5
+SKU035,Cable Management Box,Office Supplies,14.9,76,0.6,32.0,14.0,13.0,https://images.example.com/cable-box.jpg,Cable management box to hide power strips and cables,TidyDesk,4.3,4
